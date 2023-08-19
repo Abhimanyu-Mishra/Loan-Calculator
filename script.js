@@ -1,3 +1,4 @@
+
 document.getElementById("calculate").addEventListener("click", function () {
     const loanAmount = parseFloat(document.getElementById("loan-amount").value);
     const interestRate = parseFloat(document.getElementById("interest-rate").value) / 100;
